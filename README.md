@@ -10,6 +10,7 @@ DuckDuckGo is a privacy-focused search engine that provides comprehensive search
 
 [Installation](#installation)  
 [Operations](#operations)  
+[Resources](#resources)
 
 ## Installation
 
@@ -23,3 +24,11 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 - **Search Videos**
 
 Each operation loads the first 30 search results.
+
+## Resources
+
+## Resources
+
+* [n8n community nodes documentation](https://docs.n8n.io/integrations/community-nodes/)
+* [DuckDuckScrape](https://duck-duck-scrape.js.org/)
+* [DuckDuckGo Documentation](https://duckduckgo.com/)
